@@ -1,3 +1,3 @@
 public class Company {
-	private ArrayList products;
+	private ArrayList<Product> products;
 }
